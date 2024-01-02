@@ -6,4 +6,5 @@
  *
  */
 module AITikTacToe {
+	requires java.desktop;
 }
